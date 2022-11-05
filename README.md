@@ -5,3 +5,4 @@ Useful for **variable rate** mortgages to determine what payment is needed to pa
 
 Note: For full freedom in adjusting payment frequency, need to use daily (D) compounding frequency. Default is month-start (MS) payments with MS interest compounding. 
 
+![Screen Shot 2022-11-05 at 2 06 36 PM](https://user-images.githubusercontent.com/17832202/200134694-50e5b579-cc02-4bb5-9911-599e7af84b35.png)
